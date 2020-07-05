@@ -4,8 +4,13 @@
   "description": "Modern, Clean-looking Hotel Booking App.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start":"parcel index.html", 
+    "build":"parcel build index.html" 
   },
   "author": "Jai-Sharma",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "sass": "^1.26.9"
+  }
 }
