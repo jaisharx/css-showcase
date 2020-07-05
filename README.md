@@ -4,13 +4,21 @@
 This repo is collection of few small toy projects that which I've worked on over the period, they showcase different css techniques and modern methods used in CSS nowadays.
 
 ## Usage
-Simply cd into the project and use any static dev server to serve files. <br>
-For example:
+This repo uses parcel for serving and optimizing static files.
+So you'd wanna install parcel globally first, if you haven't already.
 
-```bash
-cd Trillo
-serve index.html
+```sh
+npm i parcel -g
 ```
+
+After successfully installing parcel.<br>
+Navigate into your desired dir and run the following commands.
+```bash
+npm install
+npm start
+```
+
+Do an ```npm build``` for building production ready files.
 
 ## Inspirations
 
