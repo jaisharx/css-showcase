@@ -8,12 +8,33 @@
             href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap"
             rel="stylesheet"
         />
+        <link rel="stylesheet" href="node_modules/@fortawesome/fontawesome-free/css/all.css">
         <link rel="stylesheet" href="sass/main.scss" />
         <link rel="shortcut icon" href="img/favicon.png" type="image/png" />
 
         <title>trillo &mdash; Your all-in-one booking app</title>
     </head>
     <body>
-        <p>hello, world</p>
+        <div class="container">
+            <header class="header">
+                <img src="img/logo.png" alt="trillo logo" alt="logo">
+
+                <form action="#" class="search">
+                    <input type="text" class="search__text" placeholder="Search Hotels">
+                    <button class="search__button">
+                        <i class="fas fa-search"></i>
+                    </button>
+                </form>
+            </header>
+
+            <div class="content">
+                <nav class="sidebar">
+                    Navigation
+                </nav>
+                <main class="hotel-view">
+                    hotel-view
+                </main>
+            </div>
+        </div>
     </body>
 </html>

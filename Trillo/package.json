@@ -4,12 +4,13 @@
   "description": "Modern, Clean-looking Hotel Booking App.",
   "main": "index.js",
   "scripts": {
-    "start":"parcel index.html", 
-    "build":"parcel build index.html" 
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "author": "Jai-Sharma",
   "license": "ISC",
   "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.1",
     "cssnano": "^4.1.10",
     "sass": "^1.26.9"
   }
