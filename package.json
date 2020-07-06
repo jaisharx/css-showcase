@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start:trillo": "parcel Trillo/index.html",
-    "build:trillo": "parcel build Trillo/index.html"
+    "build:trillo": "parcel build Trillo/index.html",
+    "start:natours": "parcel Natours/index.html",
+    "build:natours": "parcel build Natours/index.html"
   },
   "author": "Jai-Sharma",
   "license": "ISC",
