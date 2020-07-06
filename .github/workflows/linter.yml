@@ -27,13 +27,13 @@ jobs:
         ##########################
         # Checkout the code base #
         ##########################
-        - name: Checkout Code
+        name: Checkout Code
         uses: actions/checkout@v2
 
         ################################
         # Run Linter against code base #
         ################################
-        - name: Lint Code Base
+        name: Lint Code Base
         uses: docker://github/super-linter:v3
         env:
             VALIDATE_ALL_CODEBASE: false
