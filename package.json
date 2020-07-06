@@ -12,7 +12,6 @@
   "author": "Jai-Sharma",
   "license": "ISC",
   "devDependencies": {
-    "@fortawesome/fontawesome-free": "^5.13.1",
     "cssnano": "^4.1.10",
     "parcel": "^1.12.4",
     "sass": "^1.26.9"
