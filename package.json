@@ -12,9 +12,11 @@
     "build:natours": "parcel build Natours/index.html --out-dir Natours/dist"
   },
   "devDependencies": {
-    "autoprefixer": "^9.8.4",
     "cssnano": "^4.1.10",
     "parcel": "^1.12.4",
     "sass": "^1.26.9"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.8.4"
   }
 }
