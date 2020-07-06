@@ -6,10 +6,10 @@
   "main": "index.js",
   "description": "Modern, Clean-looking Hotel Booking App.",
   "scripts": {
-    "start:trillo": "parcel Trillo/index.html",
-    "build:trillo": "parcel build Trillo/index.html",
-    "start:natours": "parcel Natours/index.html",
-    "build:natours": "parcel build Natours/index.html"
+    "start:trillo": "parcel Trillo/index.html --out-dir Trillo/dist",
+    "build:trillo": "parcel build Trillo/index.html --out-dir Trillo/dist",
+    "start:natours": "parcel Natours/index.html --out-dir Natours/dist",
+    "build:natours": "parcel build Natours/index.html --out-dir Natours/dist"
   },
   "devDependencies": {
     "cssnano": "^4.1.10",
