@@ -1,24 +1,25 @@
 # Welcome to my CSS-Showcases
 
 ## This Repository
-This repo is collection of few small toy projects that which I've worked on over the period, they showcase different css techniques and modern methods used in CSS nowadays.
+Purpose of this repository is to showcase some of the cool projects I've worked on over the time utilizing modern css, and also serve as a personal resource to come back to it whenever needed ✌
 
 ## Usage
-This repo uses parcel for serving and optimizing static files.
-So you'd wanna install parcel globally first, if you haven't already.
+This repo holds three different projects ([Natours](https://github.com/jaisharx/css-showcase/tree/master/Natours-Project), [Trillo](https://github.com/jaisharx/css-showcase/tree/master/Trillo), [Nexter](https://github.com/jaisharx/css-showcase/tree/master/Nexter)) showcasing many modern CSS3 techniques. In order to get started with the repo, run following commands.
 
-```sh
-npm i parcel -g
-```
-
-After successfully installing parcel.<br>
-Navigate into your desired dir and run the following commands.
 ```bash
 npm install
-npm start
 ```
 
-Do an ```npm build``` for building production ready files.
+After successfully installing the required dependencies, the ```package.json``` comes with three pair of ```start``` and ```build``` npm scripts. For example:-
+
+```bash
+npm run start:trillo
+```
+or
+```bash
+npm build start:trillo
+```
+Running the build command would produce a dist folder that which you can serve using a static dev serve, also for each project I've it configured vai Netlify, so if all you want to do is look at the final end project. Navigate to your desired folder and open the link on right 😎
 
 ## Inspirations
 
