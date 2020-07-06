@@ -1,5 +1,7 @@
 {
   "name": "trillo",
+  "author": "Jai-Sharma",
+  "license": "ISC",
   "version": "1.0.0",
   "description": "Modern, Clean-looking Hotel Booking App.",
   "main": "index.js",
@@ -9,11 +11,17 @@
     "start:natours": "parcel Natours/index.html",
     "build:natours": "parcel build Natours/index.html"
   },
-  "author": "Jai-Sharma",
-  "license": "ISC",
   "devDependencies": {
     "cssnano": "^4.1.10",
+    "husky": "^4.2.5",
     "parcel": "^1.12.4",
+    "prettier": "^2.0.5",
+    "pretty-quick": "^2.0.1",
     "sass": "^1.26.9"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
   }
 }
