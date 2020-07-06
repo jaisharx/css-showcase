@@ -4,7 +4,7 @@
 Purpose of this repository is to showcase some of the cool projects I've worked on over the time utilizing modern css, and also serve as a personal resource to come back to it whenever needed ✌
 
 ## Usage
-This repo holds three different projects ([Natours](https://github.com/jaisharx/css-showcase/tree/master/Natours-Project), [Trillo](https://github.com/jaisharx/css-showcase/tree/master/Trillo), [Nexter](https://github.com/jaisharx/css-showcase/tree/master/Nexter)) showcasing many modern CSS3 techniques. In order to get started with the repo, run following commands.
+This repo holds three different projects ([Natours](https://github.com/jaisharx/css-showcase/tree/master/Natours), [Trillo](https://github.com/jaisharx/css-showcase/tree/master/Trillo), [Nexter](https://github.com/jaisharx/css-showcase/tree/master/Nexter)) showcasing many modern CSS3 techniques. In order to get started with the repo, run following commands.
 
 ```bash
 npm install
