@@ -1,0 +1,20 @@
+/*
+    Author  : jaisharx <sendtojsharma@gmail.com>
+    Date    : 21-04-2020
+    Purpose : Project wide mixins
+*/
+
+@mixin clearfix {
+    &::after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+}
+
+@mixin absCenter {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

@@ -1,0 +1,49 @@
+/*
+    Author  : jaisharx <sendtojsharma@gmail.com>
+    Date    : 19-04-2020
+    Purpose : CSS Animations
+*/
+
+@keyframes moveInRight {
+    from {
+        opacity: 0;
+        transform: translateX(-10rem);
+    }
+
+    80% {
+        transform: translateX(2.5rem);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes moveInLeft {
+    from {
+        opacity: 0;
+        transform: translateX(10rem);
+    }
+
+    80% {
+        transform: translateX(-2.5rem);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+@keyframes moveInTop {
+    from {
+        opacity: 0;
+        transform: translateY(4.5rem);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
