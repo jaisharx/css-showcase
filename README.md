@@ -21,8 +21,8 @@ npm build start:trillo
 ```
 Running the build command would produce a dist folder that which you can serve using a static dev serve, also for each project I've it configured vai Netlify, so if all you want to do is look at the final end project. Open any of the following links. 😎
 
-1. [Natours](https://naughty-nightingale-716806.netlify.app/)
-2. [Trillo](https://pedantic-bhaskara-242ffe.netlify.app/)
+1. [Natours](https://css-showcase-natours.netlify.app/)
+2. [Trillo](https://css-showcase-trillo.netlify.app/)
 3. [Nexters]()
 
 ## Inspirations

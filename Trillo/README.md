@@ -18,4 +18,4 @@ or run this for production ready build:
 npm build start:trillo
 ```
 
-### Don't wanna go with any headache, simple open [this](https://pedantic-bhaskara-242ffe.netlify.app/) link 😎
+### Don't wanna go with any headache, simple open [this](https://css-showcase-trillo.netlify.app/) link 😎

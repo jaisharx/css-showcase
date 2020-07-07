@@ -18,4 +18,4 @@ or run this for production ready build:
 npm build start:natours
 ```
 
-### Don't wanna go with any headache, simple open [this](https://naughty-nightingale-716806.netlify.app/) link 😎
+### Don't wanna go with any headache, simple open [this](https://css-showcase-natours.netlify.app/) link 😎
