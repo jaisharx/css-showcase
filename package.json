@@ -1,11 +1,12 @@
 {
   "name": "css-showcase",
-  "author": "Jai-Sharma",
-  "license": "ISC",
+  "author": "jai-sharma",
+  "license": "MIT",
   "version": "1.0.0",
   "main": "index.js",
-  "description": "Modern, Clean-looking Hotel Booking App.",
+  "description": "Collection of modern looking CSS3 Projects",
   "scripts": {
+    "clean": "rmdir /S /Q .cache dist",
     "start:trillo": "parcel Trillo/index.html",
     "build:trillo": "parcel build Trillo/index.html",
     "start:natours": "parcel Natours/index.html",
