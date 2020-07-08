@@ -10,7 +10,9 @@
     "start:trillo": "parcel Trillo/index.html",
     "build:trillo": "parcel build Trillo/index.html",
     "start:natours": "parcel Natours/index.html",
-    "build:natours": "parcel build Natours/index.html"
+    "build:natours": "parcel build Natours/index.html",
+    "start:nexter": "parcel Nexter/index.html",
+    "build:nexter": "parcel build Nexter/index.html"
   },
   "devDependencies": {
     "cssnano": "^4.1.10",
