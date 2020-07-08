@@ -1,6 +1,5 @@
 {
     "colorize.languages": [
-        "scss",
+        "scss", // highlighting color values in the IDE
     ]
 }
-// use colorize ext...
