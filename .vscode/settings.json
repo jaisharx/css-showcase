@@ -1,5 +1,3 @@
 {
-    "colorize.languages": [
-        "scss", // highlighting color values in the IDE
-    ]
+    "colorize.languages": ["scss"]
 }
