@@ -1,4 +1,4 @@
-# <img src="img/favicon.png" width="25px"/> Welcome to Trillo | Flexbox powered project
+# <img src="img/favicon.png" width="40px"/> Welcome to Trillo | Flexbox powered project
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0c0a437f-75fd-4870-966f-72e3ed07a9ca/deploy-status)](https://app.netlify.com/sites/css-showcase-trillo/deploys)
 
