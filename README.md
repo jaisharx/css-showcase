@@ -23,7 +23,7 @@ Running the build command would produce a dist folder that which you can serve u
 
 1. [Natours](https://css-showcase-natours.netlify.app/)
 2. [Trillo](https://css-showcase-trillo.netlify.app/)
-3. [Nexters]()
+3. [Nexters](https://css-showcase-nexter.netlify.app/)
 
 ## Inspirations
 

@@ -18,4 +18,4 @@ or run this for production ready build:
 npm build start:nexter
 ```
 
-### Don't wanna go with any headache, simple open [this]() link 😎
+### Don't wanna go with any headache, simple open [this](https://css-showcase-nexter.netlify.app/) link 😎
