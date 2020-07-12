@@ -1,4 +1,7 @@
 # Welcome to Trillo | Flexbox powered project
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0c0a437f-75fd-4870-966f-72e3ed07a9ca/deploy-status)](https://app.netlify.com/sites/css-showcase-trillo/deploys)
+
 Purpose of this repository is to showcase some of the cool projects I've worked on over the time utilizing modern css, and also serve as a personal resource to come back to it whenever needed ✌
 
 ## Usage
