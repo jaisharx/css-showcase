@@ -19,9 +19,8 @@
 
 
     &__icon {
-        fill: $color-primary;
-        width: 4.5rem;
-        height: 4.5rem;
+        color: $color-primary;
+        font-size: 4.5rem;
 
         grid-row: 1 / span 2;
         transform: translateY(-1rem);
