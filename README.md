@@ -13,8 +13,9 @@ In order to get started with the projects, run the following command in the root
 ```bash
 npm install
 ```
-Once all the necessary dependencies are installed (it's really just parcel configured) the ```package.json``` comes with three pairs of ```start``` and ```build``` npm scripts for each of the projects. For example, if you want to start a dev server in watch mode run:-
+Once all the necessary dependencies are installed (it's really just parcel configured) the ```package.json``` comes with three pairs of ```start``` and ```build``` npm scripts for each of the projects.
 
+For example, if you want to start a dev server in watch mode run:-
 ```bash
 npm run start:trillo
 ```
