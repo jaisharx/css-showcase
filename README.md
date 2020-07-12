@@ -22,16 +22,16 @@ npm build start:trillo
 Running the build command would produce a dist folder that which you can serve using a static dev serve, also for each project I've it configured vai Netlify, so if all you want to do is look at the final end project. Open any of the following links. 😎
 
 
-<div style="display: flex; ">
-    <div style="text-align: center">
+<div style="display: flex">
+    <div style="text-align: center; width: calc(1/3*100vw)">
         <a href="https://css-showcase-natours.netlify.app/"><img src="Natours/assets/natours.png"/></a>
         <a href="https://css-showcase-natours.netlify.app/">NATOURS</a>     
     </div>
-    <div style="text-align: center; margin: 0 8px">
+    <div style="text-align: center; margin: 0 8px; width: calc(1/3*100vw)">
         <a href="https://css-showcase-trillo.netlify.app/"><img src="Trillo/img/trillo.png"/></a>
         <a href="https://css-showcase-trillo.netlify.app/">TRILLO</a>
     </div>
-    <div style="text-align: center">
+    <div style="text-align: center; width: calc(1/3*100vw)">
         <a href="https://css-showcase-nexter.netlify.app/"><img src="Nexter/img/nexter.png"/></a>
         <a href="https://css-showcase-nexter.netlify.app/">NEXTER</a>
     </div>
