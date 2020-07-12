@@ -1,11 +1,8 @@
-# <img src="img/favicon.png" width="40px"/> Welcome to Nexter | CSS Grids based project
+# Welcome to Nexter | CSS Grids based project
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f9e704b5-df0d-4240-b38d-d87a9b361ebc/deploy-status)](https://app.netlify.com/sites/css-showcase-nexter/deploys)
 
 <img src="img/nexter.png"/>
-
-
-Purpose of this repository is to showcase some of the cool projects I've worked on over the time utilizing modern css, and also serve as a personal resource to come back to it whenever needed ✌
 
 ## Usage
 Run the following command in the root dir of this repo.
