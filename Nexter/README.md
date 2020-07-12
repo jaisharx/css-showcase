@@ -1,4 +1,4 @@
-# Welcome to Nexter | CSS Grids based project
+# <img src="img/favicon.png" width="25px"/> Welcome to Nexter | CSS Grids based project
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f9e704b5-df0d-4240-b38d-d87a9b361ebc/deploy-status)](https://app.netlify.com/sites/css-showcase-nexter/deploys)
 

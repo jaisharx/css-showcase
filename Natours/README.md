@@ -1,4 +1,4 @@
-# Welcome to Natours | Modern CSS3 Project
+# <img src="assets/favicon.png" width="25px"/> Welcome to Natours | Modern CSS3 Project
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9fe55d83-1684-4a2e-a893-34a5de54b9d2/deploy-status)](https://app.netlify.com/sites/css-showcase-natours/deploys)
 
