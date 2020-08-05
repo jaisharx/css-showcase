@@ -1,4 +1,9 @@
+# cache file generated
 .cache
+
+# unnecessary folders
 dist
 node_modules
+
+# lock files
 package-lock.json
