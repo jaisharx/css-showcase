@@ -1,26 +1,23 @@
 {
-  "name": "css-showcase",
-  "author": "jai-sharma",
-  "license": "MIT",
-  "version": "1.0.0",
-  "main": "index.js",
-  "description": "Collection of modern looking CSS3 Projects",
-  "scripts": {
-    "clean": "rmdir /S /Q .cache dist",
-
-    "start:trillo": "parcel Trillo/index.html",
-    "build:trillo": "parcel build Trillo/index.html",
-    
-    "start:natours": "parcel Natours/index.html",
-    "build:natours": "parcel build Natours/index.html",
-    
-    "start:nexter": "parcel Nexter/index.html",
-    "build:nexter": "parcel build Nexter/index.html"
-  },
-  "devDependencies": {
-    "cssnano": "^4.1.10",
-    "parcel": "^1.12.4",
-    "parcel-plugin-nuke-dist": "^1.0.1",
-    "sass": "^1.26.9"
-  }
+    "name": "css-showcase",
+    "author": "jai-sharma",
+    "license": "MIT",
+    "version": "1.0.0",
+    "main": "index.js",
+    "description": "Collection of modern looking CSS3 Projects",
+    "scripts": {
+        "clean": "rmdir /S /Q .cache dist",
+        "start:trillo": "parcel Trillo/index.html",
+        "build:trillo": "parcel build Trillo/index.html",
+        "start:natours": "parcel Natours/index.html",
+        "build:natours": "parcel build Natours/index.html",
+        "start:nexter": "parcel Nexter/index.html",
+        "build:nexter": "parcel build Nexter/index.html"
+    },
+    "devDependencies": {
+        "cssnano": "^4.1.10",
+        "parcel": "^1.12.4",
+        "parcel-plugin-nuke-dist": "^1.0.1",
+        "sass": "^1.26.9"
+    }
 }
